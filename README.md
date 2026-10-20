@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Qrypsis** · Team ID `VTU-QFF-HC-0028` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Qrypsis)
+[⬆ Back to Top](#qrypsis)
 
 </div>
